@@ -1,4 +1,4 @@
-import logger from '../helpers/logger';
+import logger from '../../helpers/logger';
 
 export default function resolver() {
     const { db } = this;

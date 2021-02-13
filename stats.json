@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "cbd9b00be370ae4e7b3c",
-  "time": 5638,
-  "builtAt": 1613227226626,
+  "hash": "241b72376d98fd72a644",
+  "time": 7062,
+  "builtAt": 1613238475707,
   "publicPath": "",
   "outputPath": "C:\\Users\\sakac\\Desktop\\graphbook\\dist\\client",
   "assetsByChunkName": {
@@ -80,7 +80,7 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 194369,
+      "size": 194349,
       "names": [
         "main"
       ],
@@ -88,7 +88,7 @@
         "bundle.css",
         "bundle.js"
       ],
-      "hash": "ee4794a0531754c2f372",
+      "hash": "52d1ff57a17b2901b342",
       "siblings": [],
       "parents": [],
       "children": [],
@@ -117,15 +117,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             }
           ],
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           },
           "failed": false,
           "errors": 0,
@@ -362,8 +362,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -371,9 +371,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -381,15 +381,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
               "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
               "profile": {
-                "factory": 9,
-                "building": 543,
-                "dependencies": 5
+                "factory": 172,
+                "building": 254,
+                "dependencies": 10
               }
             }
           ],
           "profile": {
-            "factory": 95,
-            "building": 2
+            "factory": 73,
+            "building": 3
           },
           "failed": false,
           "errors": 0,
@@ -455,8 +455,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -464,9 +464,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -474,16 +474,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           },
           "failed": false,
           "errors": 0,
@@ -540,15 +540,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             }
           ],
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           },
           "failed": false,
           "errors": 0,
@@ -607,8 +607,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -616,16 +616,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             }
           ],
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           },
           "failed": false,
           "errors": 0,
@@ -684,8 +684,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -693,16 +693,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react\\index.js",
               "name": "./node_modules/react/index.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             }
           ],
           "profile": {
-            "factory": 546,
-            "building": 37,
-            "dependencies": 56
+            "factory": 174,
+            "building": 263,
+            "dependencies": 65
           },
           "failed": false,
           "errors": 0,
@@ -750,8 +750,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -759,16 +759,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             }
           ],
           "profile": {
-            "factory": 9,
-            "building": 543,
-            "dependencies": 5
+            "factory": 172,
+            "building": 254,
+            "dependencies": 10
           },
           "failed": false,
           "errors": 0,
@@ -816,8 +816,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -825,9 +825,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -835,15 +835,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
               "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
               "profile": {
-                "factory": 9,
-                "building": 543,
-                "dependencies": 5
+                "factory": 172,
+                "building": 254,
+                "dependencies": 10
               }
             }
           ],
           "profile": {
-            "factory": 95,
-            "building": 2
+            "factory": 73,
+            "building": 3
           },
           "failed": false,
           "errors": 0,
@@ -891,8 +891,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -900,9 +900,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -910,9 +910,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
               "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
               "profile": {
-                "factory": 9,
-                "building": 543,
-                "dependencies": 5
+                "factory": 172,
+                "building": 254,
+                "dependencies": 10
               }
             },
             {
@@ -920,14 +920,14 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\scheduler\\index.js",
               "name": "./node_modules/scheduler/index.js",
               "profile": {
-                "factory": 95,
-                "building": 2
+                "factory": 73,
+                "building": 3
               }
             }
           ],
           "profile": {
-            "factory": 7,
-            "building": 15
+            "factory": 11,
+            "building": 13
           },
           "failed": false,
           "errors": 0,
@@ -975,8 +975,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -984,16 +984,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             }
           ],
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           },
           "failed": false,
           "errors": 0,
@@ -1041,8 +1041,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1050,9 +1050,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1060,16 +1060,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           },
           "failed": false,
           "errors": 0,
@@ -1117,8 +1117,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1126,9 +1126,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1136,9 +1136,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             },
             {
@@ -1146,15 +1146,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\index.js",
               "name": "./node_modules/prop-types/index.js",
               "profile": {
-                "factory": 602,
-                "building": 8,
-                "dependencies": 38
+                "factory": 274,
+                "building": 14,
+                "dependencies": 29
               }
             }
           ],
           "profile": {
-            "factory": 19,
-            "building": 4
+            "factory": 25,
+            "building": 3
           },
           "failed": false,
           "errors": 0,
@@ -1202,8 +1202,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1211,9 +1211,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1221,9 +1221,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             },
             {
@@ -1231,9 +1231,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\index.js",
               "name": "./node_modules/prop-types/index.js",
               "profile": {
-                "factory": 602,
-                "building": 8,
-                "dependencies": 38
+                "factory": 274,
+                "building": 14,
+                "dependencies": 29
               }
             },
             {
@@ -1241,13 +1241,13 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\factoryWithThrowingShims.js",
               "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
               "profile": {
-                "factory": 19,
-                "building": 4
+                "factory": 25,
+                "building": 3
               }
             }
           ],
           "profile": {
-            "factory": 3,
+            "factory": 5,
             "building": 1
           },
           "failed": false,
@@ -1296,8 +1296,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1305,9 +1305,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1315,16 +1315,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           },
           "failed": false,
           "errors": 0,
@@ -1372,8 +1372,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1381,9 +1381,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1391,9 +1391,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             },
             {
@@ -1401,15 +1401,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-side-effect\\lib\\index.js",
               "name": "./node_modules/react-side-effect/lib/index.js",
               "profile": {
-                "factory": 602,
-                "building": 8,
-                "dependencies": 38
+                "factory": 274,
+                "building": 14,
+                "dependencies": 29
               }
             }
           ],
           "profile": {
-            "factory": 27,
-            "building": 4
+            "factory": 25,
+            "building": 2
           },
           "failed": false,
           "errors": 0,
@@ -1457,8 +1457,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1466,9 +1466,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1476,16 +1476,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           },
           "failed": false,
           "errors": 0,
@@ -1533,8 +1533,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1542,9 +1542,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1552,16 +1552,16 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           },
           "failed": false,
           "errors": 0,
@@ -1592,7 +1592,7 @@
           "name": "(webpack)/buildin/global.js",
           "index": 19,
           "index2": 15,
-          "size": 492,
+          "size": 472,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1609,8 +1609,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1618,9 +1618,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1628,9 +1628,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
               "name": "./node_modules/react-helmet/lib/Helmet.js",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             },
             {
@@ -1638,14 +1638,14 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\HelmetUtils.js",
               "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
               "profile": {
-                "factory": 602,
-                "building": 8,
-                "dependencies": 38
+                "factory": 274,
+                "building": 14,
+                "dependencies": 29
               }
             }
           ],
           "profile": {
-            "factory": 38,
+            "factory": 29,
             "building": 1
           },
           "failed": false,
@@ -1669,7 +1669,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "var g;\r\n\r\n// This works in non-strict mode\r\ng = (function() {\r\n\treturn this;\r\n})();\r\n\r\ntry {\r\n\t// This works if eval is allowed (see CSP)\r\n\tg = g || new Function(\"return this\")();\r\n} catch (e) {\r\n\t// This works if the window reference is available\r\n\tif (typeof window === \"object\") g = window;\r\n}\r\n\r\n// g can still be undefined, but nothing to do about it...\r\n// We return undefined, instead of nothing here, so it's\r\n// easier to handle this case. if(!global) { ...}\r\n\r\nmodule.exports = g;\r\n"
+          "source": "var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n"
         },
         {
           "id": 18,
@@ -1730,8 +1730,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               },
               "failed": false,
               "errors": 0,
@@ -1777,15 +1777,15 @@
                   "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
                   "name": "./src/client/index.js",
                   "profile": {
-                    "factory": 400,
-                    "building": 1125
+                    "factory": 423,
+                    "building": 1201
                   }
                 }
               ],
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               },
               "failed": false,
               "errors": 0,
@@ -1846,8 +1846,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             },
             {
@@ -1855,9 +1855,9 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
               "name": "./src/client/App.js",
               "profile": {
-                "factory": 590,
-                "building": 6,
-                "dependencies": 15
+                "factory": 468,
+                "building": 8,
+                "dependencies": 17
               }
             },
             {
@@ -1865,14 +1865,14 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\mini-css-extract-plugin\\dist\\loader.js??ref--5-0!C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\css-loader\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\assets\\css\\style.css",
               "name": "./assets/css/style.css",
               "profile": {
-                "factory": 22,
-                "building": 626,
-                "dependencies": 295
+                "factory": 198,
+                "building": 456,
+                "dependencies": 226
               }
             }
           ],
           "profile": {
-            "factory": 0,
+            "factory": 1,
             "building": 0
           },
           "failed": false,
@@ -1932,15 +1932,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         }
       ],
       "profile": {
-        "factory": 590,
-        "building": 6,
-        "dependencies": 15
+        "factory": 468,
+        "building": 8,
+        "dependencies": 17
       },
       "failed": false,
       "errors": 0,
@@ -2177,8 +2177,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2186,9 +2186,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2196,15 +2196,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
           "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "profile": {
-            "factory": 9,
-            "building": 543,
-            "dependencies": 5
+            "factory": 172,
+            "building": 254,
+            "dependencies": 10
           }
         }
       ],
       "profile": {
-        "factory": 95,
-        "building": 2
+        "factory": 73,
+        "building": 3
       },
       "failed": false,
       "errors": 0,
@@ -2270,8 +2270,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2279,9 +2279,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2289,16 +2289,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 602,
-        "building": 8,
-        "dependencies": 38
+        "factory": 274,
+        "building": 14,
+        "dependencies": 29
       },
       "failed": false,
       "errors": 0,
@@ -2355,15 +2355,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         }
       ],
       "profile": {
-        "factory": 590,
-        "building": 6,
-        "dependencies": 15
+        "factory": 468,
+        "building": 8,
+        "dependencies": 17
       },
       "failed": false,
       "errors": 0,
@@ -2422,8 +2422,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2431,16 +2431,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         }
       ],
       "profile": {
-        "factory": 22,
-        "building": 626,
-        "dependencies": 295
+        "factory": 198,
+        "building": 456,
+        "dependencies": 226
       },
       "failed": false,
       "errors": 0,
@@ -2499,8 +2499,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2508,16 +2508,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react\\index.js",
           "name": "./node_modules/react/index.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         }
       ],
       "profile": {
-        "factory": 546,
-        "building": 37,
-        "dependencies": 56
+        "factory": 174,
+        "building": 263,
+        "dependencies": 65
       },
       "failed": false,
       "errors": 0,
@@ -2565,8 +2565,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2574,16 +2574,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         }
       ],
       "profile": {
-        "factory": 9,
-        "building": 543,
-        "dependencies": 5
+        "factory": 172,
+        "building": 254,
+        "dependencies": 10
       },
       "failed": false,
       "errors": 0,
@@ -2631,8 +2631,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2640,9 +2640,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2650,15 +2650,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
           "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "profile": {
-            "factory": 9,
-            "building": 543,
-            "dependencies": 5
+            "factory": 172,
+            "building": 254,
+            "dependencies": 10
           }
         }
       ],
       "profile": {
-        "factory": 95,
-        "building": 2
+        "factory": 73,
+        "building": 3
       },
       "failed": false,
       "errors": 0,
@@ -2706,8 +2706,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2715,9 +2715,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2725,9 +2725,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
           "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "profile": {
-            "factory": 9,
-            "building": 543,
-            "dependencies": 5
+            "factory": 172,
+            "building": 254,
+            "dependencies": 10
           }
         },
         {
@@ -2735,14 +2735,14 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\scheduler\\index.js",
           "name": "./node_modules/scheduler/index.js",
           "profile": {
-            "factory": 95,
-            "building": 2
+            "factory": 73,
+            "building": 3
           }
         }
       ],
       "profile": {
-        "factory": 7,
-        "building": 15
+        "factory": 11,
+        "building": 13
       },
       "failed": false,
       "errors": 0,
@@ -2790,8 +2790,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2799,16 +2799,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         }
       ],
       "profile": {
-        "factory": 22,
-        "building": 626,
-        "dependencies": 295
+        "factory": 198,
+        "building": 456,
+        "dependencies": 226
       },
       "failed": false,
       "errors": 0,
@@ -2856,8 +2856,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2865,9 +2865,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2875,16 +2875,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 602,
-        "building": 8,
-        "dependencies": 38
+        "factory": 274,
+        "building": 14,
+        "dependencies": 29
       },
       "failed": false,
       "errors": 0,
@@ -2932,8 +2932,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -2941,9 +2941,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -2951,9 +2951,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         },
         {
@@ -2961,15 +2961,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\index.js",
           "name": "./node_modules/prop-types/index.js",
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           }
         }
       ],
       "profile": {
-        "factory": 19,
-        "building": 4
+        "factory": 25,
+        "building": 3
       },
       "failed": false,
       "errors": 0,
@@ -3017,8 +3017,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3026,9 +3026,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3036,9 +3036,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         },
         {
@@ -3046,9 +3046,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\index.js",
           "name": "./node_modules/prop-types/index.js",
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           }
         },
         {
@@ -3056,13 +3056,13 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\prop-types\\factoryWithThrowingShims.js",
           "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
           "profile": {
-            "factory": 19,
-            "building": 4
+            "factory": 25,
+            "building": 3
           }
         }
       ],
       "profile": {
-        "factory": 3,
+        "factory": 5,
         "building": 1
       },
       "failed": false,
@@ -3111,8 +3111,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3120,9 +3120,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3130,16 +3130,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 602,
-        "building": 8,
-        "dependencies": 38
+        "factory": 274,
+        "building": 14,
+        "dependencies": 29
       },
       "failed": false,
       "errors": 0,
@@ -3187,8 +3187,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3196,9 +3196,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3206,9 +3206,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         },
         {
@@ -3216,15 +3216,15 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-side-effect\\lib\\index.js",
           "name": "./node_modules/react-side-effect/lib/index.js",
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           }
         }
       ],
       "profile": {
-        "factory": 27,
-        "building": 4
+        "factory": 25,
+        "building": 2
       },
       "failed": false,
       "errors": 0,
@@ -3272,8 +3272,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3281,9 +3281,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3291,16 +3291,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 602,
-        "building": 8,
-        "dependencies": 38
+        "factory": 274,
+        "building": 14,
+        "dependencies": 29
       },
       "failed": false,
       "errors": 0,
@@ -3348,8 +3348,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3357,9 +3357,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3367,16 +3367,16 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 602,
-        "building": 8,
-        "dependencies": 38
+        "factory": 274,
+        "building": 14,
+        "dependencies": 29
       },
       "failed": false,
       "errors": 0,
@@ -3407,7 +3407,7 @@
       "name": "(webpack)/buildin/global.js",
       "index": 19,
       "index2": 15,
-      "size": 492,
+      "size": 472,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3424,8 +3424,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3433,9 +3433,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3443,9 +3443,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\Helmet.js",
           "name": "./node_modules/react-helmet/lib/Helmet.js",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         },
         {
@@ -3453,14 +3453,14 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\react-helmet\\lib\\HelmetUtils.js",
           "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
           "profile": {
-            "factory": 602,
-            "building": 8,
-            "dependencies": 38
+            "factory": 274,
+            "building": 14,
+            "dependencies": 29
           }
         }
       ],
       "profile": {
-        "factory": 38,
+        "factory": 29,
         "building": 1
       },
       "failed": false,
@@ -3484,7 +3484,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "var g;\r\n\r\n// This works in non-strict mode\r\ng = (function() {\r\n\treturn this;\r\n})();\r\n\r\ntry {\r\n\t// This works if eval is allowed (see CSP)\r\n\tg = g || new Function(\"return this\")();\r\n} catch (e) {\r\n\t// This works if the window reference is available\r\n\tif (typeof window === \"object\") g = window;\r\n}\r\n\r\n// g can still be undefined, but nothing to do about it...\r\n// We return undefined, instead of nothing here, so it's\r\n// easier to handle this case. if(!global) { ...}\r\n\r\nmodule.exports = g;\r\n"
+      "source": "var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n"
     },
     {
       "id": 18,
@@ -3545,8 +3545,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           },
           "failed": false,
           "errors": 0,
@@ -3592,15 +3592,15 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
               "name": "./src/client/index.js",
               "profile": {
-                "factory": 400,
-                "building": 1125
+                "factory": 423,
+                "building": 1201
               }
             }
           ],
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           },
           "failed": false,
           "errors": 0,
@@ -3661,8 +3661,8 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\index.js",
           "name": "./src/client/index.js",
           "profile": {
-            "factory": 400,
-            "building": 1125
+            "factory": 423,
+            "building": 1201
           }
         },
         {
@@ -3670,9 +3670,9 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\src\\client\\App.js",
           "name": "./src/client/App.js",
           "profile": {
-            "factory": 590,
-            "building": 6,
-            "dependencies": 15
+            "factory": 468,
+            "building": 8,
+            "dependencies": 17
           }
         },
         {
@@ -3680,14 +3680,14 @@
           "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\mini-css-extract-plugin\\dist\\loader.js??ref--5-0!C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\css-loader\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\assets\\css\\style.css",
           "name": "./assets/css/style.css",
           "profile": {
-            "factory": 22,
-            "building": 626,
-            "dependencies": 295
+            "factory": 198,
+            "building": 456,
+            "dependencies": 226
           }
         }
       ],
       "profile": {
-        "factory": 0,
+        "factory": 1,
         "building": 0
       },
       "failed": false,
@@ -3728,7 +3728,7 @@
       "assets": [
         {
           "name": "index.html",
-          "size": 565187,
+          "size": 565145,
           "chunks": [
             0
           ],
@@ -3768,12 +3768,12 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 561246,
+          "size": 561204,
           "names": [],
           "files": [
             "index.html"
           ],
-          "hash": "ef06c05ca9f96bae94a1",
+          "hash": "3128209667173fa0689d",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -3798,8 +3798,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 39,
-                "building": 30
+                "factory": 46,
+                "building": 28
               },
               "failed": false,
               "errors": 0,
@@ -3846,14 +3846,14 @@
                   "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
                   "profile": {
-                    "factory": 39,
-                    "building": 30
+                    "factory": 46,
+                    "building": 28
                   }
                 }
               ],
               "profile": {
                 "factory": 4,
-                "building": 336
+                "building": 350
               },
               "failed": false,
               "errors": 0,
@@ -3884,7 +3884,7 @@
               "name": "(webpack)/buildin/global.js",
               "index": 2,
               "index2": 0,
-              "size": 492,
+              "size": 472,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -3901,8 +3901,8 @@
                   "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
                   "profile": {
-                    "factory": 39,
-                    "building": 30
+                    "factory": 46,
+                    "building": 28
                   }
                 },
                 {
@@ -3911,13 +3911,13 @@
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
                     "factory": 4,
-                    "building": 336
+                    "building": 350
                   }
                 }
               ],
               "profile": {
-                "factory": 225,
-                "building": 915
+                "factory": 192,
+                "building": 1025
               },
               "failed": false,
               "errors": 0,
@@ -3940,7 +3940,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 2,
-              "source": "var g;\r\n\r\n// This works in non-strict mode\r\ng = (function() {\r\n\treturn this;\r\n})();\r\n\r\ntry {\r\n\t// This works if eval is allowed (see CSP)\r\n\tg = g || new Function(\"return this\")();\r\n} catch (e) {\r\n\t// This works if the window reference is available\r\n\tif (typeof window === \"object\") g = window;\r\n}\r\n\r\n// g can still be undefined, but nothing to do about it...\r\n// We return undefined, instead of nothing here, so it's\r\n// easier to handle this case. if(!global) { ...}\r\n\r\nmodule.exports = g;\r\n"
+              "source": "var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n"
             },
             {
               "id": 3,
@@ -3948,7 +3948,7 @@
               "name": "(webpack)/buildin/module.js",
               "index": 3,
               "index2": 1,
-              "size": 519,
+              "size": 497,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -3965,8 +3965,8 @@
                   "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
                   "profile": {
-                    "factory": 39,
-                    "building": 30
+                    "factory": 46,
+                    "building": 28
                   }
                 },
                 {
@@ -3975,13 +3975,13 @@
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
                     "factory": 4,
-                    "building": 336
+                    "building": 350
                   }
                 }
               ],
               "profile": {
-                "factory": 225,
-                "building": 915
+                "factory": 192,
+                "building": 1025
               },
               "failed": false,
               "errors": 0,
@@ -4004,7 +4004,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 2,
-              "source": "module.exports = function(module) {\r\n\tif (!module.webpackPolyfill) {\r\n\t\tmodule.deprecate = function() {};\r\n\t\tmodule.paths = [];\r\n\t\t// module.parent = undefined by default\r\n\t\tif (!module.children) module.children = [];\r\n\t\tObject.defineProperty(module, \"loaded\", {\r\n\t\t\tenumerable: true,\r\n\t\t\tget: function() {\r\n\t\t\t\treturn module.l;\r\n\t\t\t}\r\n\t\t});\r\n\t\tObject.defineProperty(module, \"id\", {\r\n\t\t\tenumerable: true,\r\n\t\t\tget: function() {\r\n\t\t\t\treturn module.i;\r\n\t\t\t}\r\n\t\t});\r\n\t\tmodule.webpackPolyfill = 1;\r\n\t}\r\n\treturn module;\r\n};\r\n"
+              "source": "module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\tmodule.deprecate = function() {};\n\t\tmodule.paths = [];\n\t\t// module.parent = undefined by default\n\t\tif (!module.children) module.children = [];\n\t\tObject.defineProperty(module, \"loaded\", {\n\t\t\tenumerable: true,\n\t\t\tget: function() {\n\t\t\t\treturn module.l;\n\t\t\t}\n\t\t});\n\t\tObject.defineProperty(module, \"id\", {\n\t\t\tenumerable: true,\n\t\t\tget: function() {\n\t\t\t\treturn module.i;\n\t\t\t}\n\t\t});\n\t\tmodule.webpackPolyfill = 1;\n\t}\n\treturn module;\n};\n"
             }
           ],
           "filteredModules": 0,
@@ -4040,8 +4040,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 39,
-            "building": 30
+            "factory": 46,
+            "building": 28
           },
           "failed": false,
           "errors": 0,
@@ -4088,14 +4088,14 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
               "profile": {
-                "factory": 39,
-                "building": 30
+                "factory": 46,
+                "building": 28
               }
             }
           ],
           "profile": {
             "factory": 4,
-            "building": 336
+            "building": 350
           },
           "failed": false,
           "errors": 0,
@@ -4126,7 +4126,7 @@
           "name": "(webpack)/buildin/global.js",
           "index": 2,
           "index2": 0,
-          "size": 492,
+          "size": 472,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4143,8 +4143,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
               "profile": {
-                "factory": 39,
-                "building": 30
+                "factory": 46,
+                "building": 28
               }
             },
             {
@@ -4153,13 +4153,13 @@
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
                 "factory": 4,
-                "building": 336
+                "building": 350
               }
             }
           ],
           "profile": {
-            "factory": 225,
-            "building": 915
+            "factory": 192,
+            "building": 1025
           },
           "failed": false,
           "errors": 0,
@@ -4182,7 +4182,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 2,
-          "source": "var g;\r\n\r\n// This works in non-strict mode\r\ng = (function() {\r\n\treturn this;\r\n})();\r\n\r\ntry {\r\n\t// This works if eval is allowed (see CSP)\r\n\tg = g || new Function(\"return this\")();\r\n} catch (e) {\r\n\t// This works if the window reference is available\r\n\tif (typeof window === \"object\") g = window;\r\n}\r\n\r\n// g can still be undefined, but nothing to do about it...\r\n// We return undefined, instead of nothing here, so it's\r\n// easier to handle this case. if(!global) { ...}\r\n\r\nmodule.exports = g;\r\n"
+          "source": "var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n"
         },
         {
           "id": 3,
@@ -4190,7 +4190,7 @@
           "name": "(webpack)/buildin/module.js",
           "index": 3,
           "index2": 1,
-          "size": 519,
+          "size": 497,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4207,8 +4207,8 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\sakac\\Desktop\\graphbook\\public\\index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
               "profile": {
-                "factory": 39,
-                "building": 30
+                "factory": 46,
+                "building": 28
               }
             },
             {
@@ -4217,13 +4217,13 @@
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
                 "factory": 4,
-                "building": 336
+                "building": 350
               }
             }
           ],
           "profile": {
-            "factory": 225,
-            "building": 915
+            "factory": 192,
+            "building": 1025
           },
           "failed": false,
           "errors": 0,
@@ -4246,7 +4246,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 2,
-          "source": "module.exports = function(module) {\r\n\tif (!module.webpackPolyfill) {\r\n\t\tmodule.deprecate = function() {};\r\n\t\tmodule.paths = [];\r\n\t\t// module.parent = undefined by default\r\n\t\tif (!module.children) module.children = [];\r\n\t\tObject.defineProperty(module, \"loaded\", {\r\n\t\t\tenumerable: true,\r\n\t\t\tget: function() {\r\n\t\t\t\treturn module.l;\r\n\t\t\t}\r\n\t\t});\r\n\t\tObject.defineProperty(module, \"id\", {\r\n\t\t\tenumerable: true,\r\n\t\t\tget: function() {\r\n\t\t\t\treturn module.i;\r\n\t\t\t}\r\n\t\t});\r\n\t\tmodule.webpackPolyfill = 1;\r\n\t}\r\n\treturn module;\r\n};\r\n"
+          "source": "module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\tmodule.deprecate = function() {};\n\t\tmodule.paths = [];\n\t\t// module.parent = undefined by default\n\t\tif (!module.children) module.children = [];\n\t\tObject.defineProperty(module, \"loaded\", {\n\t\t\tenumerable: true,\n\t\t\tget: function() {\n\t\t\t\treturn module.l;\n\t\t\t}\n\t\t});\n\t\tObject.defineProperty(module, \"id\", {\n\t\t\tenumerable: true,\n\t\t\tget: function() {\n\t\t\t\treturn module.i;\n\t\t\t}\n\t\t});\n\t\tmodule.webpackPolyfill = 1;\n\t}\n\treturn module;\n};\n"
         }
       ],
       "filteredModules": 0,
@@ -4330,8 +4330,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 26,
-                "building": 536
+                "factory": 2,
+                "building": 174
               },
               "failed": false,
               "errors": 0,
@@ -4379,13 +4379,13 @@
                   "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\css-loader\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\assets\\css\\style.css",
                   "name": "./node_modules/css-loader!./assets/css/style.css",
                   "profile": {
-                    "factory": 26,
-                    "building": 536
+                    "factory": 2,
+                    "building": 174
                   }
                 }
               ],
               "profile": {
-                "factory": 29,
+                "factory": 250,
                 "building": 6
               },
               "failed": false,
@@ -4445,8 +4445,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 26,
-            "building": 536
+            "factory": 2,
+            "building": 174
           },
           "failed": false,
           "errors": 0,
@@ -4494,13 +4494,13 @@
               "identifier": "C:\\Users\\sakac\\Desktop\\graphbook\\node_modules\\css-loader\\index.js!C:\\Users\\sakac\\Desktop\\graphbook\\assets\\css\\style.css",
               "name": "./node_modules/css-loader!./assets/css/style.css",
               "profile": {
-                "factory": 26,
-                "building": 536
+                "factory": 2,
+                "building": 174
               }
             }
           ],
           "profile": {
-            "factory": 29,
+            "factory": 250,
             "building": 6
           },
           "failed": false,
