@@ -6,7 +6,7 @@ const buildDirectory = 'dist';
 const outputDirectory = buildDirectory + '/client';
 
 module.exports = {
-    mode: 'production',
+    mode: 'development',
     entry: './src/client/index.js',
     output: {
         path: path.join(__dirname, outputDirectory),

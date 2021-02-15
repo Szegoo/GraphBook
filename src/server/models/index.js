@@ -1,5 +1,6 @@
 import Sequelize from 'sequelize';
 import module from './post.js';
+import module2 from './user.js';
 
 if (process.env.NODE_ENV === 'development') {
   require('babel-plugin-require-context-hook/register')()
@@ -13,8 +14,10 @@ export default (sequelize) => {
     db[model.name] = model;
   });  */
   const model = module(sequelize, Sequelize);
+  const model2 = module2(sequelize, Sequelize);
 
   db[model.name] = model;
+  db[model2.name] = model2;
 
 
   Object.keys(db).forEach((modelName) => {

@@ -2,20 +2,29 @@
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    /**
-     * Add altering commands here.
-     *
-     * Example:
-     * await queryInterface.createTable('users', { id: Sequelize.INTEGER });
-     */
+    return Promise.all([
+      queryInterface.addColumn('Posts',
+      'userId',
+      {
+        type: Sequelize.INTEGER,
+      }),
+      queryInterface.addConstraint('Posts', ['userId'], 
+      {
+        type: 'foreign key',
+        name: 'fk_user_id',
+        references: {
+          table: 'Users',
+          field: 'id',
+        },
+        onDelete: 'cascade',
+        onUpdate: 'cascade',
+      }),
+    ]);
   },
 
   down: async (queryInterface, Sequelize) => {
-    /**
-     * Add reverting commands here.
-     *
-     * Example:
-     * await queryInterface.dropTable('users');
-     */
+    return Promise.all([
+      queryInterface.removeColumn('Posts', 'userId')
+    ]);
   }
 };
